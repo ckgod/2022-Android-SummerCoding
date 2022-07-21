@@ -9,8 +9,8 @@
     <color name="white">#FFFFFFFF</color>
 
     <color name="kakao_yellow">#fde200</color>
-    <color name="kakao_gray">#e6edf1</color>
+    <color name="kakao_grey">#e6edf1</color>
     <color name="kakao_blue">#313a57</color>
-    <color name="kakao_dart_blue">#2b314a</color>
-    <color name="kakao_grey">#8f949f</color>
+    <color name="kakao_dark_blue">#2b314a</color>
+    <color name="kakao_dark_grey">#8f949f</color>
 </resources>
